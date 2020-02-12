@@ -1,7 +1,7 @@
 bootstrap4==0.1.0
 certifi==2019.6.16
 dj-database-url==0.5.0
-Django==2.1.7
+Django==2.2.10
 django-bootstrap4==0.0.8
 django-heroku==0.3.1
 gunicorn==19.9.0
